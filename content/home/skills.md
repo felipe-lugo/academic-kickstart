@@ -17,20 +17,20 @@ subtitle = ""
 [[feature]]
   icon = "pencil-alt"
   icon_pack = "fas"
-  name = "construction"
-  description = "90%"
+  name = "diseño"
+  description = "100%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "desktop"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Computer Aided Design"
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "calculator"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "design calculations"
+  description = "100%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
