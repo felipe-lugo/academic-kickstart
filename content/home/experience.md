@@ -39,7 +39,7 @@ Funciones En el departamento de Ingeniería y Ventas:
 
 [[experience]]
   title = "Puesto: Ingeniero de servicio"
-  company = Grupo CTT SA de CV"
+  company = "Grupo CTT SA de CV"
   company_url = ""
   location = "República de El Salvador # 413, esquina con República de Colombia"
   date_start = "1999-01-01"
@@ -52,6 +52,7 @@ Funciones:
 * Elaboración de los documentos del sistema de calidad ISO 9002. 
 * Auditor interno del sistema de calidad. 
 * Asesoría a los ingenieros de ventas en el funcionamiento y operación de los equipos.
+
     """
 
 +++
