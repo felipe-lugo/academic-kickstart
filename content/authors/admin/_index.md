@@ -18,25 +18,25 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/FelipeLugo
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 education:
   courses:
-    - course: Instituto de Investigaciones en Materiales, UNAM
-      institution: Maestría en Ciencia e Ingeniería en MaterialesMateriales complejos,
-        Predicción de propiedades mecánicas a largo plazo en termoplásticos
-      year: 2008
-email: ""
+    - course: Maestría en Ciencia e Ingeniería en MaterialesMateriales complejos, Predicción de propiedades mecánicas a largo plazo en termoplásticos
+      institution:  Instituto de Investigaciones en Materiales, UNAM
+      year: 2003 - 2008
+    - course: Ingeniero Mecánico ElectricistaFabricación Mecánica
+      institution: Universidad Nacional Autónoma de México, FES Cuautitlán
+      year: 1991 – 1996
+      Presentación del trabajo "Análisis mediante Elemento Finito del dispositivo HGM" en el Coloquio de Investigación en la Facultad de Ingeniería UNAM. Certamen Nacional Juvenil de Ciencia y Tecnología 1996. Categoria “AA” Ciencias de la Salud. XI Premio Anual de Servicio Social Universitario “Gustavo Baz Prada”.
+email: "gelipe@gmail.com"
 user_groups:
   - Researchers
   - Visitors
 ---
-Felipe Lugo Ramirez tiene un titulo de maestria en ingenieria mecanica.
+Felipe Lugo Ramirez tiene un titulo de maestria en ingenieria mécanica.
 
 <!--StartFragment-->
 
