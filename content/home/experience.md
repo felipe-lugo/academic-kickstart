@@ -18,6 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[experience]]
+  title = "Gerente de Ingeniería"
+  company = "ADS Mexicana SA de CV"
+  company_url = "https://www.adsmexicana.com/"
+  location = "Carretera a Villa de García km 0.8 Zona Industrial Poniente, CP 66360, Santa Catarina, Nuevo León, México. Teléfono: (81) 8625-4500 al 05   •   Jefe Directo: Rafael López Mejía"
+  date_start = "2017-02-01"
+  date_end = ""
+  description = """
+  
+Responsabilidades
+* Desarrollar estrategias para incrementar la aceptación de nuestros productos a los proyectistas de los Despachos de Ingeniería de México y Centroamérica, con servicios preventa y postventa.
+* Apoyar a los Gerentes Comerciales en las presentaciones de nuestros productos, para conseguir la aceptación y cierre de contratos de venta.
+* Impulsar y apoyar a mi equipo de colaboradores para que transmitan las ventajas de la tecnología a nuestros clientes actuales y futuros, manteniendo nuestras herramientas de diseño actualizadas. 
+  """
 
 [[experience]]
   title = "Jefe de desarrollo de nuevos productos"
