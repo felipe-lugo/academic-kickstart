@@ -7,7 +7,7 @@ authors:
   - admin
 title: Felipe Lugo Ramirez
 role: Ingeniero Mecanico
-bio: My research interests include distributed robotics, mobile computing..
+bio: My research interests include 2D/3D CAD-Design, thermoplastics, ..
 interests:
   - diseño 2D/3D CAD
   - Thermoplasticos
