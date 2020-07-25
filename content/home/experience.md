@@ -19,12 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
-2007 – 2001   •   Puesto: Jefe de desarrollo de nuevos productos
-ADS Mexicana SA de CV   •   Carretera a Villa de García km 0.8 Zona Industrial Poniente, CP 66360, Santa Catarina, Nuevo León, México.
-Teléfono: (81) 8625-4500 al 05   •   Jefe Directo: Rafael López Mejía
-
-
-
 [[experience]]
   title = "Jefe de desarrollo de nuevos productos"
   company = "ADS Mexicana SA de CV"
