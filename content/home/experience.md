@@ -17,20 +17,32 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+2007 – 2001   •   Puesto: Jefe de desarrollo de nuevos productos
+ADS Mexicana SA de CV   •   Carretera a Villa de García km 0.8 Zona Industrial Poniente, CP 66360, Santa Catarina, Nuevo León, México.
+Teléfono: (81) 8625-4500 al 05   •   Jefe Directo: Rafael López Mejía
+
+
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Jefe de desarrollo de nuevos productos"
+  company = "ADS Mexicana SA de CV"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Carretera a Villa de García km 0.8 Zona Industrial Poniente, CP 66360, Santa Catarina, Nuevo León, México."
+  date_start = "2007-01-01"
+  date_end = "2001-01-01"
   description = """
-  Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+Funciones: 
+
+* En el departamento de Ingeniería y Ventas
+* encargado de dar consultaría a los distribuidores
+* diseño de: herramientas para acoplamiento de tubería corrugada en campo
+* de nuevas piezas para instalaciones de tubería pluvial y sanitaria
+* Análisis de empaques y nuevos diseños.  
   """
+  
 
 [[experience]]
   title = "Professor"
