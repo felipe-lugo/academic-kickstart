@@ -29,7 +29,7 @@ education:
       year: 2003 - 2008
     - course: Ingeniero Mecánico Electricista Fabricación Mecánica
       institution: Universidad Nacional Autónoma de México, FES Cuautitlán
-      year: 1996
+      year: 1991 - 1996
 email: "gelipe@gmail.com"
 user_groups:
   - Researchers
