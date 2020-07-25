@@ -9,9 +9,9 @@ title: Felipe Lugo Ramirez
 role: Ingeniero Mecanico
 bio: My research interests include distributed robotics, mobile computing..
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - diseño 2D/3D CAD
+  - Thermoplasticos
+  - Ingeñeria en general
 social:
   - icon: envelope
     icon_pack: fas
