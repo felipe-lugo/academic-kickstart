@@ -37,8 +37,4 @@ user_groups:
 ---
 Felipe Lugo Ramirez tiene un titulo de maestria en ingenieria mécanica.
 
-<!--StartFragment-->
-
 Adaptable a las circunstancias y al ambiente, me gusta hacer fuertes lazos con mi equipo de trabajo. Estoy convencido que al tener una comunicación efectiva resolvemos mejor los problemas. Me gusta aprender y estoy abierto a corregir mis errores.
-
-<!--EndFragment-->
