@@ -69,4 +69,21 @@ Funciones:
 
     """
 
+[[experience]]
+  title = "Dibujante y Diseñador en CAD"
+  company = "Servicios Electrónicos al Espectáculo S.A. de C.V."
+  company_url = ""
+  location = "Av. Taxqueña, Col. Educación, México DF"
+  date_start = "1996-01-01"
+  date_end = "1993-01-01"
+  description = """  
+Dibujo de instalaciones de sonido ambiental y voceo, iluminación interior y de espectáculos, mecánica teatral,
+video, distribución de televisión y circuito cerrado de televisión; para hoteles, teatros, salones de convenciones,
+auditorios, estadios, restaurantes, residencias.
+Dibujos esquemáticos y diagramas de conexión del equipo.
+Dibujo en 3D de auditorios y estadios, para estudios acústicos y presentación de los proyectos a los clientes.
+    """
+
+
+
 +++
