@@ -41,7 +41,7 @@ Funciones En el departamento de Ingeniería y Ventas:
   title = "Puesto: Ingeniero de servicio"
   company = "Grupo CTT SA de CV"
   company_url = ""
-  location = "República de El Salvador # 413, esquina con República de Colombia"
+  location = "República de El Salvador #413, esquina con República de Colombia / Fraccionamiento Santa Elena, CP 20230, Aguascalientes, Ags. / Teléfono: (449) 922-9200 / Jefe Directo: José Antonio Benítez Acosta"
   date_start = "1999-01-01"
   date_end = "2001-01-01"
   description = """  
