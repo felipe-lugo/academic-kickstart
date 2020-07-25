@@ -7,7 +7,7 @@ authors:
   - admin
 title: Felipe Lugo Ramirez
 role: Ingeniero Mecanico
-bio: My research interests include distributed robotics, mobile computing.
+bio: My research interests include distributed robotics, mobile computing..
 interests:
   - Artificial Intelligence
   - Computational Linguistics
