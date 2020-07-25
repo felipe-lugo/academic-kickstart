@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: Universidad Nacional Autónoma de México (UNAM)
     url: ""
 superuser: true
 authors:
