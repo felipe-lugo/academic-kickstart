@@ -26,8 +26,8 @@ education:
   courses:
     - course: Maestría en Ciencia e Ingeniería en MaterialesMateriales complejos, Predicción de propiedades mecánicas a largo plazo en termoplásticos
       institution:  Instituto de Investigaciones en Materiales, UNAM
-      year: 2008
-    - course: Ingeniero Mecánico ElectricistaFabricación Mecánica
+      year: 2003 - 2008
+    - course: Ingeniero Mecánico Electricista Fabricación Mecánica
       institution: Universidad Nacional Autónoma de México, FES Cuautitlán
       year: 1996
 email: "gelipe@gmail.com"
