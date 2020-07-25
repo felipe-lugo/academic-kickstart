@@ -5,8 +5,8 @@ organizations:
 superuser: true
 authors:
   - admin
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Felipe Lugo Ramirez
+role: Ingeniero Mecanico
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
