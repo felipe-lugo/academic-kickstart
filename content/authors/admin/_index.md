@@ -26,11 +26,10 @@ education:
   courses:
     - course: Maestría en Ciencia e Ingeniería en MaterialesMateriales complejos, Predicción de propiedades mecánicas a largo plazo en termoplásticos
       institution:  Instituto de Investigaciones en Materiales, UNAM
-      year: 2003 - 2008
+      year: 2008
     - course: Ingeniero Mecánico ElectricistaFabricación Mecánica
       institution: Universidad Nacional Autónoma de México, FES Cuautitlán
-      year: 1991 – 1996
-      Presentación del trabajo "Análisis mediante Elemento Finito del dispositivo HGM" en el Coloquio de Investigación en la Facultad de Ingeniería UNAM. Certamen Nacional Juvenil de Ciencia y Tecnología 1996. Categoria “AA” Ciencias de la Salud. XI Premio Anual de Servicio Social Universitario “Gustavo Baz Prada”.
+      year: 1996
 email: "gelipe@gmail.com"
 user_groups:
   - Researchers
