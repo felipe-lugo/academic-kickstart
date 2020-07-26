@@ -70,8 +70,8 @@ subtitle = "que programas que domino en la informatica "
 * [ANSYS]()
 * [FEMLab]()
 
-** **
-* [Ensayos en materiales]()
+**Ensayos en materiales**
+* []()
 * []()
 * []()
 
