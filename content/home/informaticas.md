@@ -56,7 +56,7 @@ subtitle = ""
 * [Linux](https://www.linux.com/what-is-linux/) (basico)
 
 **Programación especializada**
-* [LabView](https://www.ni.com/shop/labview.html)
+* [LabView](https://www.ni.com/labview)
 * [Mathematica](https://www.wolfram.com/mathematica)
 
 **Dibujo asistido por computadora**
