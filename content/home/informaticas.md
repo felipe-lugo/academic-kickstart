@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<a href="/#informatica">&nbsp;</a>
+
 **Sistemas operativos**
 * [Windows](https://www.microsoft.com/en-us/windows)
 * [MacOS](https://www.apple.com/macos/catalina/)
