@@ -22,7 +22,7 @@ subtitle = "que programas que domino en la informatica "
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "navy"
+   color = "#589ae0"
   
   # Background gradient.
   # gradient_start = "DarkGreen"
