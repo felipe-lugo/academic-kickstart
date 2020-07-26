@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: felipe-lugo/academic-kickstart
   branch: master
 media_folder: 'static/img/'
 public_folder: 'img'
