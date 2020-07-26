@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
-subtitle = ""
+subtitle = "Formación Extra Académica / Entrenamiento"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -97,16 +97,6 @@ date_format = "Jan 2006"
   date_start = "1999-01-01"
   date_end = ""
   description = "" 
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = ""
-  url = ""
-  certificate_url = ""
-  date_start = "2000-01-01"
-  date_end = ""
-  description = "" 
   
 [[item]]
   organization = "MTS Systems Corporation. Minneapolis, Minnesota. EE.UU."
@@ -147,28 +137,5 @@ date_format = "Jan 2006"
   date_start = "1994-01-01"
   date_end = ""
   description = "" 
-  
 
-  
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = ""
-  url = ""
-  certificate_url = ""
-  date_start = "1999-01-01"
-  date_end = ""
-  description = "" 
-  
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = ""
-  url = ""
-  certificate_url = ""
-  date_start = "1999-01-01"
-  date_end = ""
-  description = ""   
-
-  
 +++
