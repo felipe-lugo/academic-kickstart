@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Facultad de Ingeniería, UNAM."
-  organization_url = ""
+  organization_url = "https://www.ingenieria.unam.mx"
   title = "Introducción al uso de ANSYS"
   url = ""
   certificate_url = ""
@@ -39,8 +39,8 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Facultad de Ingeniería, UNAM."
-  organization_url = ""
+  organization = "Instituto Ingenieria Mécanico, UNAM"
+  organization_url = "https://www.ingenieria.unam.mx/programas_academicos/licenciatura/mecanica.php"
   title = "Entrenamiento en el control y operación del equipo electromecánico Instron"
   url = ""
   certificate_url = ""
@@ -48,6 +48,127 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
- 
+[[item]]
+  organization = "Asociación Mexicana de Metrología, A.C. México, D.F."
+  organization_url = ""
+  title = "Introducción a la Metrología"
+  url = ""
+  certificate_url = ""
+  date_start = "2000-01-01"
+  date_end = ""
+  description = "" 
 
+[[item]]
+  organization = "MTS Systems Corporation. Raleigh, Carolina del Norte. EE.UU."
+  organization_url = "https://www.mtssensors.com/"
+  title = "Entrenamiento de ingeniero de servicio para los sistemas electromecánicos MTS."
+  url = ""
+  certificate_url = ""
+  date_start = "2000-01-01"
+  date_end = ""
+  description = "" 
+
+[[item]]
+  organization = "Centro Nacional de Metrología. Querétaro, Qro."
+  organization_url = ""
+  title = "Introducción a la Metrología y estimación de incertidumbre."
+  url = ""
+  certificate_url = ""
+  date_start = "2000-01-01"
+  date_end = ""
+  description = "" 
+
+[[item]]
+  organization = "Grupo CTT S.A. Aguascalientes, Ags."
+  organization_url = ""
+  title = "Sistema de la Calidad Interno de Grupo CTT."
+  url = ""
+  certificate_url = ""
+  date_start = "2000-01-01"
+  date_end = ""
+  description = "" 
+ 
+[[item]]
+  organization = "Grupo CTT S.A. Aguascalientes, Ags."
+  organization_url = ""
+  title = "Requisitos técnicos del laboratorio de calibración"
+  url = ""
+  certificate_url = ""
+  date_start = "1999-01-01"
+  date_end = ""
+  description = "" 
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = ""
+  url = ""
+  certificate_url = ""
+  date_start = "2000-01-01"
+  date_end = ""
+  description = "" 
+  
+[[item]]
+  organization = "MTS Systems Corporation. Minneapolis, Minnesota. EE.UU."
+  organization_url = ""
+  title = "Entrenamiento de ingeniero de servicio para equipos servohidráulicos."
+  url = ""
+  certificate_url = ""
+  date_start = "1999-01-01"
+  date_end = ""
+  description = ""   
+
+[[item]]
+  organization = "Hospital General de México, DF"
+  organization_url = "http://www.hgm.salud.gob.mx/"
+  title = "Instrumentación transpedicular de columna vertebral"
+  url = ""
+  certificate_url = ""
+  date_start = "1996-01-01"
+  date_end = ""
+  description = ""   
+  
+[[item]]
+  organization = "Facultad de Ingeniería, UNAM."
+  organization_url = "https://www.ingenieria.unam.mx"
+  title = "Manufactura asistida por computadora MasterCAM."
+  url = ""
+  certificate_url = ""
+  date_start = "1996-01-01"
+  date_end = ""
+  description = ""   
+
+[[item]]
+  organization = "Holophane SA, Edo. de Méx."
+  organization_url = "https://holophane.acuitybrands.com/"
+  title = "Curso de iluminación para interiores/exteriores"
+  url = ""
+  certificate_url = ""
+  date_start = "1994-01-01"
+  date_end = ""
+  description = "" 
+  
+
+  
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = ""
+  url = ""
+  certificate_url = ""
+  date_start = "1999-01-01"
+  date_end = ""
+  description = "" 
+  
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = ""
+  url = ""
+  certificate_url = ""
+  date_start = "1999-01-01"
+  date_end = ""
+  description = ""   
+
+  
 +++
