@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
 title = "Habilidades Informáticas"
-subtitle = "que programas que domino en la informatica "
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
