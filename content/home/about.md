@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
 
 title = "Biography"
-translationKey: "about"
+translationKey = "about"
 
 
 # Choose the user profile to display
