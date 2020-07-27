@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: México
 
-summary: en español : Capacitar al participante en la construcción y supervisión de obras de drenaje con tubería PEAD Corrugada ADS.
+summary: en español... Capacitar al participante en la construcción y supervisión de obras de drenaje con tubería PEAD Corrugada ADS.
 abstract: "Capacitar al participante en la construcción y supervisión de obras de drenaje con tubería PEAD Corrugada ADS"
 
 # Talk start and end times.
