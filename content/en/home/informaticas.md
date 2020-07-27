@@ -62,13 +62,13 @@ subtitle = "about my knowledge in using computer applications"
 * [LabView](https://www.ni.com/labview)
 * [Mathematica](https://www.wolfram.com/mathematica)
 
-**Computer Aided Design **
+**Computer Aided Design**
 * [Auto CAD]() en 2D/3D
 * [Inventor]()
 * [ARC/Info]()
 * [Freehand]()
 
-**FEM Analysis **
+**FEM Analysis**
 * [Nisa/Display]()
 * [ANSYS]()
 * [FEMLab]()
