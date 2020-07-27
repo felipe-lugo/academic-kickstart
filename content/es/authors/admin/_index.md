@@ -17,6 +17,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
+  - icon: linkedin
+    icon_pack: fab
+    link: https://mx.linkedin.com/in/felipe-lugo-ram%C3%ADrez-5311a656      
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/FelipeLugo
