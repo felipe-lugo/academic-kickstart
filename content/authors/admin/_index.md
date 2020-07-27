@@ -6,7 +6,7 @@ superuser: true
 authors:
   - admin
 title: Felipe Lugo Ramirez
-role: Ingeniero Mecanico
+role: Mechanical Engineer
 bio: My research interests include 2D/3D CAD-Design, thermoplastics, ..
 interests:
   - diseño 2D/3D CAD
