@@ -53,27 +53,27 @@ subtitle = "about my knowledge in using computer applications"
 +++
 
 
-**Sistemas operativos**
+**Operating Systems**
 * [Windows](https://www.microsoft.com/en-us/windows)
 * [MacOS](https://www.apple.com/macos/catalina/)
 * [Linux](https://www.linux.com/what-is-linux/) (basico)
 
-**Programación especializada**
+**special applications**
 * [LabView](https://www.ni.com/labview)
 * [Mathematica](https://www.wolfram.com/mathematica)
 
-**Dibujo asistido por computadora**
+**Computer Aided Design **
 * [Auto CAD]() en 2D/3D
 * [Inventor]()
 * [ARC/Info]()
 * [Freehand]()
 
-**Análisis de esfuerzos**
+**FEM Analysis **
 * [Nisa/Display]()
 * [ANSYS]()
 * [FEMLab]()
 
-**Ensayos en materiales**
+**other**
 * []()
 * []()
 * []()
