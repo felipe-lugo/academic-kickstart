@@ -10,8 +10,8 @@ weight = 45  # Order that this section will appear.
 
 translationKey = "informatics"
 
-title = "Habilidades Informáticas"
-subtitle = ""
+title = "IT capabilites"
+subtitle = "about my knowledge in using computer applications"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
