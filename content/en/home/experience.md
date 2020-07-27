@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Gerente de Ingeniería"
+  title = "Director of engineering department"
   company = "ADS Mexicana SA de CV"
   company_url = "https://www.adsmexicana.com/"
   location = "Carretera a Villa de García km 0.8 Zona Industrial Poniente, CP 66360, Santa Catarina, Nuevo León, México. Teléfono: (81) 8625-4500 al 05   •   Jefe Directo: Rafael López Mejía"
@@ -36,7 +36,7 @@ Responsabilidades
   """
 
 [[experience]]
-  title = "Jefe de desarrollo de nuevos productos"
+  title = "Chief of new product development"
   company = "ADS Mexicana SA de CV"
   company_url = "https://www.adsmexicana.com/"
   location = "Carretera a Villa de García km 0.8 Zona Industrial Poniente, CP 66360, Santa Catarina, Nuevo León, México. Teléfono: (81) 8625-4500 al 05   •   Jefe Directo: Rafael López Mejía"
