@@ -12,7 +12,7 @@ bio: mis intereses son entre otros 2D/3D CAD-Design, termoplastics, ..
 interests:
   - diseño 2D/3D CAD
   - Thermoplasticos
-  - Ingeñeria en general
+  - Ingeñieria en general
 social:
   - icon: envelope
     icon_pack: fas
