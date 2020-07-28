@@ -8,7 +8,7 @@ authors:
   - admin
 title: Felipe Lugo Ramirez
 role: Ingeniero Mecanico
-bio: mis intereses son entre otros 2D/3D CAD-Design, thermoplastics, ..
+bio: mis intereses son entre otros 2D/3D CAD-Design, termoplastics, ..
 interests:
   - diseño 2D/3D CAD
   - Thermoplasticos
