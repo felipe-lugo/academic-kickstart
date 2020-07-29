@@ -62,19 +62,35 @@ subtitle = ""
 * [LabView](https://www.ni.com/labview)
 * [Mathematica](https://www.wolfram.com/mathematica)
 
-**Dibujo asistido por computadora**
+**Dibujo asistido por computadora CAD**
 * [Auto CAD]() en 2D/3D
+* [SolidEdge](http://www.siemens.com/solidedge)
 * [Inventor]()
 * [ARC/Info]()
 * [Freehand]()
 
-**Análisis de esfuerzos**
+**Análisis de esfuerzos CAE**
 * [Nisa/Display]()
 * [ANSYS]()
 * [FEMLab]()
 
 **Ensayos en materiales**
-* []()
-* []()
-* []()
+* [TestWorks](https://www.testworksgroup.com/)
+* [TestStar]()
+* [FlexTest]()
 
+**Tratamiento de imágenes**
+* [Adobe Photoshop](www.adobe.com/photoshopfamily)
+
+**Presentaciones multimedia**
+* [PowerPoint](https://products.office.com/en-us/powerpoint)
+* [Freelance Graphics](http://www-01.ibm.com/software/lotus/products/smartsuite/freelance.html)
+
+**Procesadores de texto**
+* [Word](https://products.office.com/word)
+* [Word Pro]()
+* [QuarkXpress](http://www.quark.com/Products/QuarkXPress/)
+
+**Hojas de cálculo**
+* [Excel](https://products.office.com/excel)
+* [Lotus 123](http://www.ibm.com/software/lotus/products/123/)
