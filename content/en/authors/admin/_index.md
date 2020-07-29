@@ -28,7 +28,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 education:
   courses:
-    - course: Maestría en Ciencia e Ingeniería en MaterialesMateriales complejos, Predicción de propiedades mecánicas a largo plazo en termoplásticos
+    - course: Master of Science and Engineering in Complex Materials materials, Prediction of long-term mechanical properties in thermoplastics
       institution:  Instituto de Investigaciones en Materiales, UNAM
       year: 2003 - 2008
     - course: Ingeniero Mecánico Electricista Fabricación Mecánica
