@@ -44,7 +44,7 @@ Responsabilidades
   date_end = "2001-01-01"
   description = """
   
-Funciones En el departamento de Ingeniería y Ventas: 
+Functions In the Engineering and Sales department: 
 
 * responsible for giving consultancy to distributors
 * design of tools for field corrugated pipe coupling
@@ -79,11 +79,11 @@ Funciones:
   date_start = "1996-01-01"
   date_end = "1993-01-01"
   description = """  
-Dibujo de instalaciones de sonido ambiental y voceo, iluminación interior y de espectáculos, mecánica teatral,
-video, distribución de televisión y circuito cerrado de televisión; para hoteles, teatros, salones de convenciones,
-auditorios, estadios, restaurantes, residencias.
-Dibujos esquemáticos y diagramas de conexión del equipo.
-Dibujo en 3D de auditorios y estadios, para estudios acústicos y presentación de los proyectos a los clientes.
+Drawing of ambient sound and paging installations, interior and show lighting, theatrical mechanics,
+video, television distribution and closed circuit television; for hotels, theaters, convention halls,
+auditoriums, stadiums, restaurants, residences.
+Schematic drawings and connection diagrams of the equipment.
+3D drawing of auditoriums and stadiums, for acoustic studies and presentation of projects to clients.
     """
 
 
