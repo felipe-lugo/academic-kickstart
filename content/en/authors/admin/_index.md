@@ -41,4 +41,4 @@ user_groups:
 ---
 Felipe Lugo Ramirez owns a master title in mechanical engineering.
 
-Adaptable a las circunstancias y al ambiente, me gusta hacer fuertes lazos con mi equipo de trabajo. Estoy convencido que al tener una comunicación efectiva resolvemos mejor los problemas. Me gusta aprender y estoy abierto a corregir mis errores.
+Adaptable to circumstances and environment, I like to make strong ties with my team. I am convinced that having effective communication we solve problems better. I like to learn and I am open to correct my mistakes.
