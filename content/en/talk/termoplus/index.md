@@ -1,6 +1,6 @@
 ---
-title: Certificación para Asesores Técnicos
-event: Certificación para Asesores Técnicos en la Instalación de Tubería PEAD Corrugada ADS PRO
+title: Certification for Technical Advisors
+event: Certification for Technical Advisors in the Installation of HDPE Corrugated Pipe ADS PRO
 event_url: https://termoplus.mx/capacitacion/curso/certificacion-asesores-ads
 
 slug: termoplus-certification-for-technicians
@@ -13,8 +13,8 @@ address:
   postcode: ''
   country: México
 
-summary: Capacitar al participante en la construcción y supervisión de obras de drenaje con tubería PEAD Corrugada ADS.
-abstract: "Capacitar al participante en la construcción y supervisión de obras de drenaje con tubería PEAD Corrugada ADS"
+summary: Train the participant in the construction and supervision of drainage works with HDPE Corrugated ADS pipes.
+abstract: "Train the participant in the construction and supervision of drainage works with HDPE Corrugated ADS pipes."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -65,14 +65,4 @@ projects:
 math: true
 ---
 
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
 
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
