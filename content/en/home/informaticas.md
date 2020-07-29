@@ -68,13 +68,29 @@ subtitle = "about my knowledge in using computer applications"
 * [ARC/Info]()
 * [Freehand]()
 
-**FEM Analysis**
+**Computer Aided Engineering : CAE**
 * [Nisa/Display]()
 * [ANSYS]()
 * [FEMLab]()
 
-**other**
-* []()
-* []()
-* []()
+**Material Testing**
+* [TestWorks](https://www.testworksgroup.com/)
+* [TestStar]()
+* [FlexTest]()
+
+**Image processing**
+* [Adobe Photoshop](www.adobe.com/photoshopfamily)
+
+**Multimedia presentation**
+* [PowerPoint](https://products.office.com/en-us/powerpoint)
+* [Freelance Graphics](http://www-01.ibm.com/software/lotus/products/smartsuite/freelance.html)
+
+**Text processors**
+* [Word](https://products.office.com/word)
+* [Word Pro]()
+* [QuarkXpress](http://www.quark.com/Products/QuarkXPress/)
+
+**Spreadsheets**
+* [Excel](https://products.office.com/excel)
+* [Lotus 123](http://www.ibm.com/software/lotus/products/123/)
 
