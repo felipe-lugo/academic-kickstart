@@ -30,9 +30,9 @@ date_format = "Jan 2006"
   description = """
   
 Responsabilidades
-* Desarrollar estrategias para incrementar la aceptación de nuestros productos a los proyectistas de los Despachos de Ingeniería de México y Centroamérica, con servicios preventa y postventa.
-* Apoyar a los Gerentes Comerciales en las presentaciones de nuestros productos, para conseguir la aceptación y cierre de contratos de venta.
-* Impulsar y apoyar a mi equipo de colaboradores para que transmitan las ventajas de la tecnología a nuestros clientes actuales y futuros, manteniendo nuestras herramientas de diseño actualizadas. 
+* Develop strategies to increase the acceptance of our products to designers from the Engineering Offices of Mexico and Central America, with pre-sale and post-sale services.
+* Support the Commercial Managers in the presentations of our products, to achieve the acceptance and closing of sales contracts.
+* Boost and support my team of collaborators so that they transmit the advantages of technology to our current and future clients, keeping our design tools updated.
   """
 
 [[experience]]
@@ -46,10 +46,10 @@ Responsabilidades
   
 Funciones En el departamento de Ingeniería y Ventas: 
 
-* encargado de dar consultaría a los distribuidores
-* diseño de: herramientas para acoplamiento de tubería corrugada en campo
-* de nuevas piezas para instalaciones de tubería pluvial y sanitaria
-* Análisis de empaques y nuevos diseños.  
+* responsible for giving consultancy to distributors
+* design of tools for field corrugated pipe coupling
+* design of new parts for pluvial and sanitary pipe installations
+* Packaging analysis and new designs.
   """
 
 
@@ -62,12 +62,12 @@ Funciones En el departamento de Ingeniería y Ventas:
   date_end = "2001-01-01"
   description = """  
 Funciones: 
-* Instalación, mantenimiento preventivo y correctivo de equipos electromecánicos y servohidráulicos para pruebas mecánicas en materiales de la marca MTS. 
-* Atención a clientes en planta y capacitación a usuarios finales. 
-* Calibración de transductores de fuerza y desplazamiento. 
-* Elaboración de los documentos del sistema de calidad ISO 9002. 
-* Auditor interno del sistema de calidad. 
-* Asesoría a los ingenieros de ventas en el funcionamiento y operación de los equipos.
+* Installation, preventive and corrective maintenance of electromechanical and servohydraulic equipment for mechanical tests on MTS brand materials.
+* Customer service at the plant and training for end users.
+* Calibration of force and displacement transducers.
+* Preparation of ISO 9002 quality system documents.
+* Internal auditor of the quality system.
+* Advice to sales engineers in the operation and operation of the equipment.
 
     """
 
