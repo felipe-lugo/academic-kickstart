@@ -22,7 +22,7 @@ social:
     link: https://mx.linkedin.com/in/felipe-lugo-ram%C3%ADrez-5311a656    
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/FelipeLugo
+    link: https://twitter.com/   #https://twitter.com/felipeLugosTwitterAccount
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
