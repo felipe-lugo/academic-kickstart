@@ -3,6 +3,7 @@ title: Certificación para Asesores Técnicos
 event: Certificación para Asesores Técnicos en la Instalación de Tubería PEAD Corrugada ADS PRO
 event_url: https://termoplus.mx/capacitacion/curso/certificacion-asesores-ads
 
+slug: termoplus-certificacion-para-tecnicos
 translationKey: termoplus-talk
 location: ADS
 address:
