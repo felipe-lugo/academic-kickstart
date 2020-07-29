@@ -7,7 +7,7 @@ weight = 40  # Order that this section will appear.
 
 translationKey = "experience"
 
-title = "Experiencias de trabajo"
+title = "Experiencia laboral"
 subtitle = ""
 
 # Date format for experience
