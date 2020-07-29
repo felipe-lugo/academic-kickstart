@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-Responsabilidades
+Responsibilities
 * Develop strategies to increase the acceptance of our products to designers from the Engineering Offices of Mexico and Central America, with pre-sale and post-sale services.
 * Support the Commercial Managers in the presentations of our products, to achieve the acceptance and closing of sales contracts.
 * Boost and support my team of collaborators so that they transmit the advantages of technology to our current and future clients, keeping our design tools updated.
