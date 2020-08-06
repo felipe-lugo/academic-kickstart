@@ -41,4 +41,4 @@ user_groups:
 ---
 Felipe Lugo Ramirez owns a master title in mechanical engineering.
 
-Adaptable to circumstances and environment, I like to make strong ties with my team. I am convinced that having effective communication we solve problems better. I like to learn and I am open to correct my mistakes.
+Being part of a company in the area of ​​engineering and product development, contributing my experience and acquired knowledge, committing myself to its ideals of business growth and in which I can develop personally and professionally.
