@@ -41,4 +41,5 @@ user_groups:
 ---
 Felipe Lugo Ramirez tiene un titulo de maestria en ingenieria mécanica.
 
+**objetivos**
 Formar parte de una compañía en el área de ingeniería y desarrollo de productos, aportando mi experiencia y conocimientos adquiridos, comprometiéndome con sus ideales de crecimiento empresarial y en la cual pueda desarrollarme personal y profesionalmente. 
