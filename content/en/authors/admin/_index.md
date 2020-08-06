@@ -41,4 +41,5 @@ user_groups:
 ---
 Felipe Lugo Ramirez owns a master title in mechanical engineering.
 
+**objectives**\
 Being part of a company in the area of ​​engineering and product development, contributing my experience and acquired knowledge, committing myself to its ideals of business growth and in which I can develop personally and professionally.
