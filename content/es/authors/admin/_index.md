@@ -28,18 +28,16 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 education:
   courses:
-    - course: Maestría en Ciencia e Ingeniería en Materiales complejos, Predicción de propiedades mecánicas a largo plazo en termoplásticos
-      institution:  Instituto de Investigaciones en Materiales, UNAM
-      year: 2003 - 2008
-    - course: Ingeniero Mecánico Electricista Fabricación Mecánica
-      institution: Universidad Nacional Autónoma de México, FES Cuautitlán
-      year: 1991 - 1996
+    - course: MAESTRÍA EN CIENCIA E INGENIERÍA EN MATERIALES 2003 – 2008 Especialidad en propiedades mecánicas de materiales termoplásticos.
+    - course: INGENIERO MECÁNICO ELECTRICISTA 1991 – 1996 Especialidad en diseño e Ingeniería asistida por computadora y fabricacion mecánica.
 email: "gelipe@gmail.com"
 user_groups:
   - Researchers
   - Visitors
 ---
-Felipe Lugo Ramirez tiene un titulo de maestria en ingenieria mécanica.
+Soy un profesional innovador y comprometido que establece solidas relaciones en el trabajo para cumplir con los plazos y compromisos establecidos.
+Gracias a mi formación y experiencia en diversas disciplinas, siento una gran motivación para ofrecer lo mejor de mí en cualquier proyecto. 
+Estoy abierto al cambio y puedo reorientar mi carrera profesional, para continuar aprendiendo en una compañía que coincida con mis valores y expectativas. Tengo disponibilidad para viajar y si se presenta la oportunidad, para cambiar de residencia.
 
 **objetivos**\
 Formar parte de una compañía en el área de ingeniería y desarrollo de productos, aportando mi experiencia y conocimientos adquiridos, comprometiéndome con sus ideales de crecimiento empresarial y en la cual pueda desarrollarme personal y profesionalmente. 
